@@ -1,5 +1,5 @@
 # Business365
-# Business365 - Data Analytics for Solar Trade company
+# Data Analytics for Solar Trade company
 Business365 is a data analytics project utilizing Python and Power BI to analyze sales, cash flow, and supply chain performance for three subsidiaries of the company. The project identifies key business trends, operational inefficiencies, and strategic opportunities for growth. 
 
 # Solar Trade - Data Analysis Case Study  
